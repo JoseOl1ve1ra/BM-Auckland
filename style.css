@@ -219,7 +219,7 @@ footer {
 /*  sessão sobre  */
 
 .about .title::after {
-    content: "BM Auckland❄️🔥";
+    content: "❄️🔥";
 }
 
 .about .about-content .left {
@@ -326,7 +326,7 @@ footer {
 
 /*  sessão especialidades  */
 .skills .title::after {
-    content: "BM Auckland ❄️🔥";
+    content: " ❄️🔥";
 }
 
 .skills .skills-content .column {
@@ -486,7 +486,7 @@ footer {
 
 /*  sessão Contato  */
 .contact .title::after {
-    content: "BM Auckland ❄️🔥";
+    content: "❄️🔥";
 }
 
 .contact .contact-content .column {
